@@ -39,14 +39,3 @@
 
 ;; ===============================================================
 ;; DIMENSIONAL ERROR MATRIX CONSTANTS
-;; ===============================================================
-
-;; Quantum error frequencies for temporal feedback loops
-(define-constant VOID-ENTITY-BREACH (err u404))
-(define-constant DUPLICATE-RESONANCE-FIELD (err u409))
-(define-constant CORRUPTED-NEXUS-PATHWAY (err u403))
-(define-constant PHANTOM-NODE-SYNDROME (err u404))
-(define-constant MALFORMED-ESSENCE-VECTOR (err u400))
-(define-constant UNSTABLE-COORDINATES (err u401))
-(define-constant TIMELINE-CORRUPTION-DETECTED (err u402))
-
